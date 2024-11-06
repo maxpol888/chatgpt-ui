@@ -7038,10 +7038,10 @@ vuepress@^2.0.0-beta.61:
   dependencies:
     vuepress-vite "2.0.0-beta.61"
 
-vuetify@^3.0.6:
-  version "3.1.12"
-  resolved "https://registry.npmmirror.com/vuetify/-/vuetify-3.1.12.tgz#f3b8a61d176cbfd876f7208ece21e4a1e434ec6a"
-  integrity sha512-6SOMWzNtziDdi/Noeg0l9Q5o20amIuqmj9V5W8fV1nCNdQUZsi6mt9iN+UcfjqwAaALS/z5Nbd4v5OJxy8M4Rw==
+vuetify@^3.7.2:
+  version "3.7.4"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.7.4.tgz#52de97ecb4e456c92dc81c723d1e21b1ddccdbc6"
+  integrity sha512-Y8UU5wUDQXC3oz2uumPb8IOdvB4XMCxtxnmqdOc+LihNuPlkSgxIwf92ndRzbOtJFKHsggFUxpyLqpQp+A+5kg==
 
 wait-on@^7.0.1:
   version "7.0.1"
