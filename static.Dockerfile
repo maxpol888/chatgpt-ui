@@ -11,7 +11,7 @@ COPY . .
 RUN rm -r server && SSR=false yarn generate
 
 
-FROM nginx:1.22-alpine
+FROM nginx:1.27.4-alpine
 
 WORKDIR /app
 
